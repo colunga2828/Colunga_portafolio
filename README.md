@@ -1,2 +1,2 @@
-# Daniel Colunga_portafolio
+# Daniel Colunga portafolio
 Data analytics / Data science Portafolio
